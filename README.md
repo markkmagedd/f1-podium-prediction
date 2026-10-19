@@ -4,6 +4,8 @@ Predicting whether a Formula 1 driver finishes on the podium (`positionOrder <= 
 
 CSEN 903 Advanced Computer Lab, Winter 2026 — Milestone 1.
 
+**Team:** Mark Maged, Alya Ahmed, Mina Hossam, Aya El Askari
+
 ## Contents
 
 | File | Description |
