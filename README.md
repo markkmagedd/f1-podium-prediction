@@ -12,7 +12,7 @@ CSEN 903 Advanced Computer Lab, Winter 2026 — Milestone 1.
 | `Milestone1_Report.pdf` | Analytical report |
 | `requirements.txt` | Python libraries used |
 
-- Kaggle notebook: https://www.kaggle.com/code/markkmagedd/notebook1334ac465e
+- Kaggle notebook: https://www.kaggle.com/code/markkmagedd/notebook0f92b4f689
 - Dataset: [Formula 1 World Championship (1950–2024)](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020) (Kaggle / Ergast, 14 CSV tables)
 
 ## How to run
